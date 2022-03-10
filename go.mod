@@ -1,4 +1,4 @@
-module github.com/app-nerds/configinator
+module github.com/ResurgenceIT/configinator
 
 go 1.16
 
