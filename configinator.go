@@ -5,8 +5,8 @@ import (
 	"os"
 	"reflect"
 
-	"github.com/app-nerds/configinator/container"
-	"github.com/app-nerds/configinator/env"
+	"github.com/ResurgenceIT/configinator/container"
+	"github.com/ResurgenceIT/configinator/env"
 )
 
 /*

@@ -7,14 +7,14 @@ Behold, the **Configinator**! Simply create a struct, annotate it with tags, and
 Installation is easy. 
 
 ```bash
-go get github.com/app-nerds/configinator
+go get github.com/ResurgenceIT/configinator
 ```
 
 ### Example
 
 ```go
 import (
-  "github.com/app-nerds/configinator"
+  "github.com/ResurgenceIT/configinator"
 )
 
 type Config struct {
